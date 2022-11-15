@@ -21,11 +21,16 @@ void reed_ekidan2() {
   printf("We learned that git and GitHub are amazing, powerful tools!\n");
 }
 
+void nfili2_mpool3(){
+  printf("Nick Filipov and Maddy Pooley\n");
+  printf("We learned how to use the console to use git and github commands to be able to clone, change, and return files to where they came from to be collaborative with people online.");
+}
+
 int main()
 {
     printf("This code has been created by the students of CS 211, Fall 2022!\n\n");
     
     reed_ekidan2();
-    
+    nfili2_mpool3();
     return 0;
 }
